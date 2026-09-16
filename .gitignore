@@ -1,7 +1,0 @@
-build/
-*.xcodeproj/
-*.xcarchive/
-*.ipa
-*.p12
-*.mobileprovision
-.DS_Store
